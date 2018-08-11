@@ -20,5 +20,9 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+* 
+CRUD done!
+
+CRUD stands for Create, Read, Update, Delete
 
 * ...
