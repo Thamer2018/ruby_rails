@@ -25,4 +25,6 @@ CRUD done!
 
 CRUD stands for Create, Read, Update, Delete
 
+refactor code : illiminate the redandancy
+
 * ...
